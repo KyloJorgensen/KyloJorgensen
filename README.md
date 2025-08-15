@@ -33,7 +33,7 @@
 ### Learning
 
 <a href="https://convex.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/convexdev-colored.svg" width="36" height="36" alt="Convex" /></a>
-<a href="https://windsurf.ai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/windsurf-colored.svg" width="36" height="36" alt="Windsurf" style="border-radius: 25%;background-color: #ffffff;"/></a>
+<a href="https://windsurf.ai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/windsurf-colored.svg" width="36" height="36" alt="Windsurf" style="border-radius: 25%;background-color: #000000;"/></a>
 <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/elixir-colored.svg" width="36" height="36" alt="Elixir" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
