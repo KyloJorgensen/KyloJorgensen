@@ -25,7 +25,7 @@
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://chatgpt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/openai-colored.svg" width="36" height="36" alt="OpenAI ChatGPT" /></a>
+<a href="https://chatgpt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/openai-colored.svg" width="28" height="28" alt="OpenAI ChatGPT" style="border-radius: 25%;background-color: #ffffff; padding: 4px;" /></a>
 <a href="https://cursor.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/cursor-colored.svg" width="36" height="36" alt="Cursor" /></a>
 <a href="https://kiro.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/kiro-colored.svg" width="36" height="36" alt="Kiro" /></a>
 </p>
@@ -33,7 +33,7 @@
 ### Learning
 
 <a href="https://convex.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/convexdev-colored.svg" width="36" height="36" alt="Convex" /></a>
-<a href="https://windsurf.ai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/windsurf-colored.svg" width="36" height="36" alt="Windsurf" /></a>
+<a href="https://windsurf.ai/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/windsurf-colored.svg" width="36" height="36" alt="Windsurf" style="border-radius: 25%;background-color: #ffffff;"/></a>
 <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/elixir-colored.svg" width="36" height="36" alt="Elixir" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
