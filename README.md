@@ -29,12 +29,9 @@
 
 ### Learning
 
-<a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/elixir-colored.svg" width="36" height="36" alt="Elixir" /></a>
-<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
-
 <a href="https://convex.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/convexdev-colored.svg" width="36" height="36" alt="Convex" /></a>
+<a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/elixir-colored.svg" width="36" height="36" alt="Elixir" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
 ### Worked With
 
