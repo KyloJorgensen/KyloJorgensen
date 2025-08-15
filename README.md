@@ -6,7 +6,7 @@ Software Architect and Full Stack Developer
 
 * 🌍  I'm based in Utah
 * 🚀  I'm currently working on [Angel Studios](http://www.angel.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Convex
 
 ### Skills
 
