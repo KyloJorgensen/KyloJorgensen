@@ -38,7 +38,7 @@
 
 <p align="left">
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/express-colored.svg" width="28" height="28" alt="Express" style="border-radius: 25%;background-color: #ffffff; padding: 4px;"/></a>
+<div style="display: inline-flex; align-items: center; justify-content: center; height: 36px; width: 36px; border-radius: 25%; background-color: #ffffff; padding: 4px;"><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/express-colored.svg" width="28" height="28" alt="Express" /></a></div>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
