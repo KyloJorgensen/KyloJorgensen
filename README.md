@@ -10,9 +10,11 @@
 
 #### AI
 
+<p align="left">
 <a href="https://cursor.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/cursor-colored.svg" width="28" height="28" alt="Cursor" style="border-radius: 25%; background-color: #ffffff; padding: 4px;" /></a>
 <a href="https://kiro.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/kiro-colored.svg" width="36" height="36" alt="Kiro" /></a>
 <a href="https://chatgpt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/openai-colored.svg" width="28" height="28" alt="OpenAI ChatGPT" style="border-radius: 25%;background-color: #ffffff; padding: 4px;" /></a>
+</p>
 
 #### Languages and Frameworks
 
