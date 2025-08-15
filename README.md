@@ -5,7 +5,7 @@ Software Architect and Full Stack Developer
 -------------------------------------------
 
 * 🌍  I'm based in Utah
-* 🚀  I'm currently working on [Cove Smart](http://www.covesmart.com)
+* 🚀  I'm currently working on [Angel Studios](http://www.angel.com)
 * 🧠  I'm learning Python
 
 ### Skills
