@@ -1,15 +1,12 @@
-Hi 👋 My name is Kylo Jorgensen
-===============================
+# Hi 👋 My name is Kylo Jorgensen
 
-Software Architect and Full Stack Developer
--------------------------------------------
+## Software Architect and Full Stack Developer
 
-* 🌍  I'm based in Utah
-* 🚀  I'm currently working on [Angel Studios](http://www.angel.com)
-* 🧠  I'm learning Convex
+- 🌍  I'm based in Utah
+- 🚀  I'm currently working on [Angel Studios](http://www.angel.com)
+- 🧠  I'm learning Convex
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -30,17 +27,17 @@ Software Architect and Full Stack Developer
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-
 ### Learning
+
 <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/elixir-colored.svg" width="36" height="36" alt="Elixir" /></a>
 <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 
-
+<a href="https://convex.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/convexdev-colored.svg" width="36" height="36" alt="Convex" /></a>
 
 ### Worked With
+
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -50,7 +47,6 @@ Software Architect and Full Stack Developer
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/KyloJorgensen/KyloJorgensen/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
-
 
 ### Socials
 
